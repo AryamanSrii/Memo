@@ -2,3 +2,6 @@
 
 # Memo
 **A Discord Bot.**
+
+# Contributing
+Pull requests are welcome. For major changes or improvement, please open an issue first to discuss what you would like to change or add. 
