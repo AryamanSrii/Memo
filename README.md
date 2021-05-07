@@ -6,4 +6,4 @@
 <a href="https://discord.com/api/oauth2/authorize?client_id=840227498603315260&permissions=8&scope=bot">Add Memo to Server</a>.
 
 # Contributing
-Pull requests are welcome. For major changes or improvement, please open an issue first to discuss what you would like to change or add. 
+<a href="https://github.com/sijey-praveen/Memo/pulls">Pull requests</a> are welcome. For major changes or improvement, please open an <a href="https://github.com/sijey-praveen/Memo/issues">issue</a> first to discuss what you would like to change or add. 
