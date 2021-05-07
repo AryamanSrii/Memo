@@ -48,4 +48,4 @@ async def commands(ctx):
     command_list = "!hi\n!hello\n!dl\n!download\n!play"
     await ctx.send(command_list)
 
-client.run("ODQwMjI3NDk4NjAzMzE1MjYw.YJVI1g.Yd8BBCSQ8SnSoxacb7I9jjrVMSE")
+client.run("Your_Token")
