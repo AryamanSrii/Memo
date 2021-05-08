@@ -23,7 +23,7 @@ async def weather(ctx, *, message):
     str = soup.find('div', attrs={'class': 'BNeawe tAd8D AP7Wnd'}).text
     data = str.split('\n')
     sky = data[1]
-    result = "Temperature was currently " + temp.replace("C", "celcius")
+    result = "In " + message + "the Temperature was currently " + temp.replace("C", "celcius")
     await ctx.send(result)
 
 @client.command()
