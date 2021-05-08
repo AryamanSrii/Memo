@@ -42,7 +42,7 @@ async def spotify(ctx, *, message):
 
 @client.command()
 async def soundcloud(ctx, *, message):
-    url = "https://soundcloud.com/search?q=" + message.replace(" ", "%20")
+    url = "https://soundcloud.com/search/sounds?q=" + message.replace(" ", "%20")
     await ctx.send(url)
 
 
