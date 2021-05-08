@@ -7,7 +7,7 @@
 - A Discord Bot For requesting URL.
 
 **Supports**
-- <a href="https://open.spotify.com/">Spotify</a>,<a href="https:///www.youtube.com/"> YouTube</a>,<a href="https://music.youtube.com/"> YouTube Music</a>,<a href="https://soundcloud.com/"> Soundcloud</a>,<a href="https://medium.com/"> Medium</a>,<a href="https://google.com/">Google</a>,
+- <a href="https://open.spotify.com/">Spotify</a>,<a href="https:///www.youtube.com/"> YouTube</a>,<a href="https://music.youtube.com/"> YouTube Music</a>,<a href="https://soundcloud.com/"> Soundcloud</a>,<a href="https://medium.com/"> Medium</a>,<a href="https://google.com/"> Google</a>,
 <!-- <a href=""></a> -->
 
 # Contributing
