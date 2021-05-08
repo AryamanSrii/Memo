@@ -23,8 +23,17 @@ What Memo Can Do?
     - Provide Results From Wikipedia.
     - Helps You to navigate <Your_Location> to <Destination_Location> using Google Maps.
     - Provide the URL For Your Query from YouTube.
-    - Provide the weather Forecast From your Country/State/City.
-    """
+    - Provide the weather Forecast From your Country/State/City.\n
+# Commands:
+!maps Your_Location > Destination_Location
+!memo This Refers To About Memo.
+!wiki stevejobs
+!yt play faded
+!weather Your_Location
+!hi refers General (Don't be spam).
+!hello refers General (Don't be spam).
+For more Command Ideas Create a issues and mention there, Visit : https://github.com/sijey-praveen/Memo/issues 
+"""
     await ctx.send(wmcd)
 
 # Main Commands
