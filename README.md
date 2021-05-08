@@ -5,3 +5,5 @@
 
 # Contributing
 <a href="https://github.com/sijey-praveen/Memo/pulls">Pull requests</a> are welcome. For major changes or improvement, please open an <a href="https://github.com/sijey-praveen/Memo/issues">issue</a> first to discuss what you would like to change or add.  
+
+**Educational Purposes Only!**
