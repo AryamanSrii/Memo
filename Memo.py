@@ -18,13 +18,14 @@ async def hi(ctx):
 
 @client.command()
 async def memo(ctx):
-    command_list = "\n!yt\n!weather\n!maps\n!wiki"
-    await ctx.send(command_list)
-
-@client.command()
-async def about(ctx):
-    about = "Hello, i'm Memo.\nI Live in Discord.\nI provide url for User Queries.\nFor more information \nvisit : https://github.com/sijey-praveen/Memo"
-    await ctx.send(about)
+    wmcd = """Memo, A Discord Bot.
+What Memo Can Do?
+    - Provide Results From Wikipedia.
+    - Helps You to navigate <Your_Location> to <Destination_Location> using Google Maps.
+    - Provide the URL For Your Query from YouTube.
+    - Provide the weather Forecast From your Country/State/City.
+    """
+    await ctx.send(wmcd)
 
 # Main Commands
 @client.command()
