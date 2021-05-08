@@ -3,6 +3,9 @@
 # Memo
 **A Discord Bot.<a href="https://discord.com/api/oauth2/authorize?client_id=840227498603315260&permissions=8&scope=bot"> Add to Server?</a>**
 
+# About
+- A Discord Bot For requesting URL.
+
 **Supports**
 - <a href="https://open.spotify.com/">Spotify</a>,<a href="https:///www.youtube.com/"> YouTube</a>,<a href="https://music.youtube.com/"> YouTube Music</a>,<a href="https://soundcloud.com/"> Soundcloud</a>.
 
