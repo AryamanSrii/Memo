@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sijey-praveen/Memo/0aa1fcf7b34811ac4169929235cc13d2a208b7a8/VisualElements/VisualElements_512.svg" width="80px">
 
 # Memo
-**A Discord Bot.<a href="https://photon-tech.github.io/discord.html"> Add to Server?</a>**
+**A Discord Bot.<a href="https://photon-tech.github.io/add-memo.html"> Add to Server?</a>**
 
 # About
 - A Discord Bot For requesting URL.
